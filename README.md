@@ -1,2 +1,2 @@
 # appium-example
-Appium実装例
+Example for appium

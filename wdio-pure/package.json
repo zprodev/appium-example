@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "scripts": {
+    "test:android": "NODE_TEST_DEVICE=android mocha ./test/spec",
+    "test:ios": "NODE_TEST_DEVICE=ios mocha ./test/spec"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "appium": "^1.7.1",
+    "appium-doctor": "^1.4.3",
+    "mocha": "^4.0.1",
+    "webdriverio": "^4.9.11"
+  }
+}
