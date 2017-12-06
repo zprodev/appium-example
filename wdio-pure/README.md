@@ -1,6 +1,6 @@
 # appium-example/wdio-pure
 
-WebdriverIOを使ったシンプルな実装例
+WebdriverIOを使った実機テストのシンプルな実装例
 
 ## Usage
 
