@@ -11,9 +11,15 @@ WebdriverIOを使った実機テストのシンプルな実装例
 $ npm install
 ```
 
-2. `test/conf.ios.js`にiOS実機のUDIDとTeamIDを設定
+2. appiumの起動
 
-3. 端末を繋げてテストの実行
+```
+$ npx appium
+```
+
+3. `test/conf.ios.js`にiOS実機のUDIDとTeamIDを設定
+
+4. 端末を繋げてテストの実行
 
 ### Androidのテスト実行
 
